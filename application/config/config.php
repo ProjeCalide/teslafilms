@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://www.teslafilms.com';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
